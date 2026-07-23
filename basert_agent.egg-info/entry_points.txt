@@ -1,0 +1,3 @@
+[console_scripts]
+basert-agent = basert_agent.cli:main
+pi-basert = basert_agent.cli:pi_main
